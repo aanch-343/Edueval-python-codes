@@ -1,0 +1,3 @@
+scikit-learn
+pytesseract
+pip install paddlepaddle paddleocr
